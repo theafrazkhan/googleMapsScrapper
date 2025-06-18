@@ -1,0 +1,6 @@
+### proxies.txt
+# Format: username:password@ip:port
+proxyuser:proxypass@167.71.141.183:3128
+proxyuser:proxypass@134.209.183.25:3128
+proxyuser:proxypass@46.101.80.124:3128
+
